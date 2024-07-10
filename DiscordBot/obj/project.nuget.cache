@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUpl7zRA5Ok=",
+  "dgSpecHash": "LuVjpCbruLQ=",
   "success": true,
-  "projectFilePath": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\Git repos\\DiscordBotTutorial\\Part 3\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
+  "projectFilePath": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\My git repos\\DiscordBot-by-rak3xh\\DiscordBot\\DiscordBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rakes\\.nuget\\packages\\discord.net\\3.12.0\\discord.net.3.12.0.nupkg.sha512",
     "C:\\Users\\rakes\\.nuget\\packages\\discord.net.commands\\3.12.0\\discord.net.commands.3.12.0.nupkg.sha512",
@@ -31,8 +31,8 @@
     "C:\\Users\\rakes\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\rakes\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
     "C:\\Users\\rakes\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\rakes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
     "C:\\Users\\rakes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\rakes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
     "C:\\Users\\rakes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
     "C:\\Users\\rakes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
   ],

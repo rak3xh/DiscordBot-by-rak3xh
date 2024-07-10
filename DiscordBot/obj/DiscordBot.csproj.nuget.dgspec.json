@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\'2code ka kaam'\\C# Codes Visual Studio\\Git repos\\DiscordBotTutorial\\Part 3\\DiscordBot\\DiscordBot\\DiscordBot.csproj": {}
+    "D:\\'2code ka kaam'\\C# Codes Visual Studio\\My git repos\\DiscordBot-by-rak3xh\\DiscordBot\\DiscordBot.csproj": {}
   },
   "projects": {
-    "D:\\'2code ka kaam'\\C# Codes Visual Studio\\Git repos\\DiscordBotTutorial\\Part 3\\DiscordBot\\DiscordBot\\DiscordBot.csproj": {
+    "D:\\'2code ka kaam'\\C# Codes Visual Studio\\My git repos\\DiscordBot-by-rak3xh\\DiscordBot\\DiscordBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\Git repos\\DiscordBotTutorial\\Part 3\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
+        "projectUniqueName": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\My git repos\\DiscordBot-by-rak3xh\\DiscordBot\\DiscordBot.csproj",
         "projectName": "DiscordBot",
-        "projectPath": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\Git repos\\DiscordBotTutorial\\Part 3\\DiscordBot\\DiscordBot\\DiscordBot.csproj",
+        "projectPath": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\My git repos\\DiscordBot-by-rak3xh\\DiscordBot\\DiscordBot.csproj",
         "packagesPath": "C:\\Users\\rakes\\.nuget\\packages\\",
-        "outputPath": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\Git repos\\DiscordBotTutorial\\Part 3\\DiscordBot\\DiscordBot\\obj\\",
+        "outputPath": "D:\\'2code ka kaam'\\C# Codes Visual Studio\\My git repos\\DiscordBot-by-rak3xh\\DiscordBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rakes\\AppData\\Roaming\\NuGet\\NuGet.Config",
