@@ -1,8 +1,11 @@
 <h1 align="center">
    Discord Bot By <b>rak3xh</b> <br/>
   <p align="center">
-  <p align="center"><img src="https://i.ibb.co/w7b85Lj/logo.png" alt="logo" border="0" width="40%"></p> 
+  <p align="center">
+  
+  <img src="logo.png" alt="Logo" width="200"/>
 
+  </p>
 
 <br/>
 
@@ -26,7 +29,9 @@
 ---
 
 <p align="center">
-<img src="https://i.ibb.co/g4K0pXx/Screenshot-2024-07-11-201128.png" alt="Screenshot-2024-07-11-201128" border="0">
+
+![Screenshot](screenshot.png)
+
 </p>
 
 ---
