@@ -56,18 +56,18 @@
 - **➤ This bot uses urban dictionary API to give funny meanings of english words to add fun to your Discord Server.**
 - **➤ This bot can be easily customized and fun to use in any Discord server.**
 
-## Getting Started
+## ⚙️ Getting Started
 
-Clone down this repository.
+Follow these steps to clone and set up the project on your local machine:
 
-<p>
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/rak3xh/DiscordBot-by-rak3xh
 ```
 
-<p>If you dont have Visual Studio 2022 then Install it in your Computer.</p>
-<p>Now you need to install .NET(6.0) framework in Visual Studio 2022</p>
+### 2️⃣ Install Visual Studio 2022 and .NET (6.0) Framework  
+If you don’t have Visual Studio installed, [download it here](https://visualstudio.microsoft.com/).
 
 ## 🛠 Installation and Setup Instructions
 
@@ -93,7 +93,9 @@ git clone https://github.com/rak3xh/DiscordBot-by-rak3xh
 
 ---
 
-**If there is any doubt regarding installation feel free to mail me <a href="mailto:rakeshmondal859@gmail.com">rakeshmondal859@gmail.com</a>**
+## 📧 Need Help?  
+
+For questions or support, feel free to reach out via email at **rakeshmondal859@gmail.com**.
 
 ---
 
@@ -101,8 +103,10 @@ git clone https://github.com/rak3xh/DiscordBot-by-rak3xh
 
 You can Go to the C# sharp File named `Program.cs` and can change modify according to your prefrence.
 
-### Show your support
+## 🌟 Show Your Support  
 
-Give a ⭐ if you like this website!
+If you love this project, consider giving it a ⭐ on [GitHub](https://github.com/rak3xh/DiscordBot-by-rak3xh).
+
+---
 
 ## HAPPY HACKING!!
